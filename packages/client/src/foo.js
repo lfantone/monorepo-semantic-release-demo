@@ -1,6 +1,7 @@
 'use strict';
 
 exports.module = {
-  foo: 'bar'
+  foo: 'foo',
+  bar: 'bar'
 };
 
