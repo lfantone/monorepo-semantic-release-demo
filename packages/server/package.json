@@ -1,0 +1,17 @@
+{
+  "name": "@demo/server",
+  "version": "0.0.0",
+  "description": "Server package demo",
+  "author": "Luciano Fantone <lucianoafantone@gmail.com>",
+  "license": "UNLICENSED",
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -e $GIT_PARAMS"
+    }
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  }
+}
