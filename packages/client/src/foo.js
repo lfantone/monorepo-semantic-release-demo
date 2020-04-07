@@ -1,7 +1,7 @@
 'use strict';
 
 exports.module = {
-  foo: undefined,
+foo: () => 1 + 1,
   bar: 'bar'
 };
 
