@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/lfantone/monorepo-semantic-release-demo/compare/@demo/client@0.1.2...@demo/client@0.2.0) (2020-04-07)
+
+
+### Bug Fixes
+
+* change console.log ([ce14445](https://github.com/lfantone/monorepo-semantic-release-demo/commit/ce14445591b8a742012eaccbbcbd69e5db1722ec))
+
+
+### Features
+
+* implement sum function ([7bd2688](https://github.com/lfantone/monorepo-semantic-release-demo/commit/7bd2688e269729f0aafb0979737e837e83d12f74))
+
+
+
+
+
 ## [0.1.2](https://github.com/lfantone/monorepo-semantic-release-demo/compare/@demo/client@0.1.1...@demo/client@0.1.2) (2020-04-07)
 
 
