@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/lfantone/monorepo-semantic-release-demo/compare/@demo/server@0.2.0...@demo/server@0.2.1) (2020-04-07)
+
+
+### Bug Fixes
+
+* change foo function ([3770cb7](https://github.com/lfantone/monorepo-semantic-release-demo/commit/3770cb7f2f59da0d9a7915f7b27a52fb3994e7a6))
+
+
+
+
+
 # 0.2.0 (2020-04-07)
 
 
