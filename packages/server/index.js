@@ -7,7 +7,7 @@ function Bar(numberOne, numberTwo) {
 }
 
 function Foo(number) {
-  return number * 2;
+  return number - 2;
 }
 
 
