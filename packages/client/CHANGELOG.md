@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/lfantone/monorepo-semantic-release-demo/compare/@demo/client@0.2.0...@demo/client@0.3.0) (2020-04-07)
+
+
+### Bug Fixes
+
+* console.log ([d1b4849](https://github.com/lfantone/monorepo-semantic-release-demo/commit/d1b4849f2517d78a46e598bb3bc6a934664fd526))
+
+
+### Features
+
+* return value ([340c250](https://github.com/lfantone/monorepo-semantic-release-demo/commit/340c2509cb9d1349e9e3b9758f28786abb6e541d))
+
+
+
+
+
 # [0.2.0](https://github.com/lfantone/monorepo-semantic-release-demo/compare/@demo/client@0.1.2...@demo/client@0.2.0) (2020-04-07)
 
 
