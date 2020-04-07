@@ -2,6 +2,6 @@
 
 const foo = require('./src/foo');
 
-console.log('Starting client with', foo);
+console.log('Starting client with foo', foo);
 
 
